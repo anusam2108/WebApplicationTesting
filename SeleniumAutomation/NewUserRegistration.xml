@@ -1,0 +1,7 @@
+<suite name="DataDriven Testing">
+  <test name="NewUserRegistation">
+    <classes>
+      <class name="com.DataDrivenTesting.NewToursUserRegistration"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->

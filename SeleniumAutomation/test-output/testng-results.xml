@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DataDriven Testing" duration-ms="24724" started-at="2017-11-16T16:45:59Z" finished-at="2017-11-16T16:46:24Z">
+    <groups>
+    </groups>
+    <test name="NewUserRegistation" duration-ms="24724" started-at="2017-11-16T16:45:59Z" finished-at="2017-11-16T16:46:24Z">
+      <class name="com.DataDrivenTesting.NewToursUserRegistration">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.DataDrivenTesting.NewToursUserRegistration@548b7f67]" name="setUp" is-config="true" duration-ms="11728" started-at="2017-11-16T10:45:59Z" finished-at="2017-11-16T10:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Register()[pri:1, instance:com.DataDrivenTesting.NewToursUserRegistration@548b7f67]" name="Register" duration-ms="480" started-at="2017-11-16T10:46:11Z" finished-at="2017-11-16T10:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method status="PASS" signature="UserCreation()[pri:2, instance:com.DataDrivenTesting.NewToursUserRegistration@548b7f67]" name="UserCreation" duration-ms="12470" started-at="2017-11-16T10:46:11Z" finished-at="2017-11-16T10:46:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserCreation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.DataDrivenTesting.NewToursUserRegistration@548b7f67]" name="tearDown" is-config="true" duration-ms="18" started-at="2017-11-16T10:46:23Z" finished-at="2017-11-16T10:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.DataDrivenTesting.NewToursUserRegistration -->
+    </test> <!-- NewUserRegistation -->
+  </suite> <!-- DataDriven Testing -->
+</testng-results>
